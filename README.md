@@ -2,7 +2,7 @@
 
 [Screenshot Landing Page](https://www.tailwindtoolbox.com/templates/screenshot-landing-page) is an open source, generic landing page template with space for a screenshot inside a browser window for [Tailwind CSS](https://tailwindcss.com/) created by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
 
-<!--![Screenshot Landing Page](https://www.tailwindtoolbox.com/templates/screenshot-landing-page.png)
+<!--![Screenshot Landing Page](https://www.tailwindtoolbox.com/templates/screenshot-landing-page.png) -->
 
 
 ## Getting Started
